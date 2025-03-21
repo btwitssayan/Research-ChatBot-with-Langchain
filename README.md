@@ -90,7 +90,7 @@ streamlit run deep_research_assistant.py
 
 ## Screenshot
 
-![Research Assistant Screenshot](https://via.placeholder.com/600x400?text=Research+Assistant)
+![Research Assistant Screenshot](ss.png)
 
 *Note: Replace this placeholder with a screenshot of your app in action.*
 
