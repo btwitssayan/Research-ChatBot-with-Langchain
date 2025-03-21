@@ -1,7 +1,12 @@
-langchain==0.3.11
-langchain_community==0.3.11
-langchain_groq==0.2.1
-streamlit==1.40.2
 arxiv
 duckduckgo-search
 wikipedia
+beautifulsoup4==4.13.3
+langchain==0.3.21
+langchain_community==0.3.20
+langchain_core==0.3.47
+langchain_google_community==2.0.7
+langchain_google_genai==2.1.0
+python-dotenv==1.0.1
+Requests==2.32.3
+streamlit==1.40.2
